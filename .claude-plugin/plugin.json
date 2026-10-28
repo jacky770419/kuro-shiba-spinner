@@ -1,0 +1,6 @@
+{
+  "name": "kuro-shiba-spinner",
+  "version": "1.0.0",
+  "description": "Replaces Claude Code's working spinner with a pixel-art black shiba inu running across a track; it runs faster while tools run and counts the turn's tool calls.",
+  "types": "./types/index.d.ts"
+}

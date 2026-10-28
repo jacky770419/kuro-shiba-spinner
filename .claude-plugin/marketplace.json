@@ -1,0 +1,5 @@
+{
+  "name": "kuro-shiba-spinner",
+  "owner": { "name": "jacky770419" },
+  "plugins": [{ "name": "kuro-shiba-spinner", "source": "./" }]
+}
